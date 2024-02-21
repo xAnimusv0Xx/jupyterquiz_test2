@@ -1,30 +1,30 @@
 [
     {
-        "question": "Wie grün ist das Grass?",
+        "question": "Welches Element hat die Ordnungszahl 2?",
         "type": "many_choice",
         "answers": [
             {
-                "answer": "Text and graphics output from Python",
+                "answer": "Helium",
                 "correct": true,
                 "feedback": "Correct."
             },
             {
-                "answer": "Typeset mathematics",
+                "answer": "Kohlenstoff",
                 "correct": true,
                 "feedback": "Correct."
             },
             {
-                "answer": "Python executable code",
+                "answer": "Wasserstoff",
                 "correct": true,
                 "feedback": "Correct."
             },
             {
-                "answer": "Formatted text",
+                "answer": "Magnesium",
                 "correct": true,
                 "feedback": "Correct."
             },
             {
-                "answer": "Live snakes via Python",
+                "answer": "Bor",
                 "correct": false,
                 "feedback": "I hope not."
             }
