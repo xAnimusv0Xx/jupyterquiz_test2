@@ -6,37 +6,68 @@
             {
                 "answer": "Helium",
                 "correct": true,
-                "feedback": "Correct."
+                "feedback": "Richtig"
             },
             {
                 "answer": "Kohlenstoff",
-                "correct": true,
-                "feedback": "Correct."
+                "correct": false,
+                "feedback": "Falsch"
             },
             {
                 "answer": "Wasserstoff",
-                "correct": true,
-                "feedback": "Correct."
+                "correct": false,
+                "feedback": "Falsch"
             },
             {
                 "answer": "Magnesium",
-                "correct": true,
-                "feedback": "Correct."
+                "correct": false,
+                "feedback": "Falsch"
             },
             {
                 "answer": "Bor",
                 "correct": false,
-                "feedback": "I hope not."
+                "feedback": "Falsch"
+            }
+        ]
+    },
+        {
+        "question": "Welche Elemente sind Edelgase?",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "Helium",
+                "correct": true,
+                "feedback": "Richtig"
+            },
+            {
+                "answer": "Natrium",
+                "correct": false,
+                "feedback": "Falsch"
+            },
+            {
+                "answer": "Wasserstoff",
+                "correct": false,
+                "feedback": "Falsch"
+            },
+            {
+                "answer": "Argon",
+                "correct": true,
+                "feedback": "Richtig"
+            },
+            {
+                "answer": "Beryllium",
+                "correct": false,
+                "feedback": "Falsch"
             }
         ]
     },
     {
-        "question": "Enter the value of $\\pi$ to 2 decimal places.",
+        "question": "Was ist die Wurzel von 81?.",
         "type": "numeric",
         "answers": [
             {
                 "type": "value",
-                "value": 3.14,
+                "value": 9,
                 "correct": true,
                 "feedback": "Correct."
             },
@@ -56,11 +87,11 @@
                     0
                 ],
                 "correct": false,
-                "feedback": "$\\pi$ is the AREA of a circle of radius 1. Try again."
+                "feedback": "Falsch"
             },
             {
                 "type": "default",
-                "feedback": "$\\pi$ is the area of a circle of radius 1. Try again."
+                "feedback": "Falsch"
             }
         ]
     }
